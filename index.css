@@ -1,0 +1,46 @@
+
+nav{
+    display: flex;
+   justify-content:end;
+   height: 30px;
+}
+a{
+    font-size: 130%;
+    text-decoration:none ;
+    color:white;
+    margin-left: 120px;
+    
+
+}
+header{
+    background-color: black;
+    padding: 30px;
+}
+.cima{
+
+height: 40px;
+background-color:red;
+padding: 5px;
+margin-top: 0;
+align-items: center;
+font-size: 14px;
+}
+p{
+    font-size: 30px;
+}
+.textocima{
+   font-size: 400%;
+   color: white;
+   font-weight: bold;
+   
+
+}
+main{
+    margin-top: 160px;
+    margin-left: 60px;
+}
+.espaço{
+    align-items: center;
+}
+
+
